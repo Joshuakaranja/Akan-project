@@ -30,7 +30,7 @@ if (gender.length === 0) {
 
 };
 
-const radiogender = gender[0].value
+const text = gender[0].value
 
 let button = document.getElementById("submit")
 form.addEventListener("generate Akan name",function(){
